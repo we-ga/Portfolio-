@@ -3,7 +3,7 @@
 Wykonaj stronę o mnie (portfolio), zawierającą:
         
 * podstawą nawigację z odnośnikami do poszczególnej sekcji
-* zajawkę z hasłem, mottem (jakieś zdjęcia, animacja)
+* zajawkę z hasłem, mottem (np. jakieś zdjęcia)
 * sekcje o mnie (powinno zawierać zdjęcie i kilka słów o sobie)
 * sekcje zainteresowania
 * sekcje umiejętności (ikonki mile widziane -> [fontawesome](https://fontawesome.com/icons))
