@@ -1,0 +1,45 @@
+body {
+    background-color: lightgrey;
+}
+
+
+header {
+    background-color: white; 
+    }
+img{
+opacity: 0.7;
+filter: alpha(opacity=50);
+background-color:white;
+width: 600px;
+height: 300px;
+padding: 5px 600px;
+}
+
+ul {
+list-style-type: none;
+font-family: "Montserrat";
+overflow: hidden;
+font-size: 120%;
+margin: 0;
+padding: 100;
+width: 250;
+height: 200%;
+overflow: hidden;
+background-color: #333;
+
+}
+
+li {
+float:left;
+}
+
+li a {
+display: block;
+color: white; 
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: black;
+}
