@@ -30,14 +30,12 @@ padding: 0px 0px;
 
 ul {
 list-style-type: none;
-/* font-family: 'Alegreya Sans', sans-serif; */
 font-family: 'Amatic SC', sans-serif;
 overflow: hidden;
 font-size: 190%;
 margin: 0px;
 padding: 0;
 width: 100%;
-overflow: hidden;
 background-color: #333;
 height: 100%;
 border: 2px solid rgba(112, 112, 112, 0.445);
@@ -234,4 +232,30 @@ margin: 15px
   padding-bottom: 50px;
   padding-left: 80px;
 
+  }
+
+  .project{
+    font-size: 40px;
+    color: #333;
+    font-family: 'Alegreya Sans', sans-serif;
+
+    text-decoration: none;
+  
+  }
+  h3{
+   margin-top: 60px;
+   margin-left: 40px;
+  }
+
+  .project:hover{
+    opacity: 0.6;
+  }
+
+  .paw__svg {
+    width: 50px;
+    height: auto;
+    display: block;
+   float: inherit;
+   
+  
   }
